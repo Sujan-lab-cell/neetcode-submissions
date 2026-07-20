@@ -78,9 +78,15 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sujan-lab-cell/neetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sujan-lab-cell/neetcode-submissions/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Sujan-lab-cell/neetcode-submissions/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sujan-lab-cell/neetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sujan-lab-cell/neetcode-submissions/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Sujan-lab-cell/neetcode-submissions/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Sujan-lab-cell/neetcode-submissions/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
