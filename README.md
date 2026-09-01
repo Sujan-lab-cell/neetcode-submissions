@@ -89,6 +89,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0088-merge-sorted-array](https://github.com/Sujan-lab-cell/neetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Sujan-lab-cell/neetcode-submissions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Sujan-lab-cell/neetcode-submissions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Sujan-lab-cell/neetcode-submissions/tree/master/0345-reverse-vowels-of-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -101,4 +102,5 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Sujan-lab-cell/neetcode-submissions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Sujan-lab-cell/neetcode-submissions/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
