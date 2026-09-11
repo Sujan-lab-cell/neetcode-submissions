@@ -109,4 +109,20 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sujan-lab-cell/neetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Sujan-lab-cell/neetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Sujan-lab-cell/neetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Sujan-lab-cell/neetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Sujan-lab-cell/neetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
