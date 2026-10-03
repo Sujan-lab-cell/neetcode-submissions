@@ -103,6 +103,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Sujan-lab-cell/neetcode-submissions/tree/master/0032-longest-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Sujan-lab-cell/neetcode-submissions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sujan-lab-cell/neetcode-submissions/tree/master/0345-reverse-vowels-of-a-string) |
 ## Binary Search
@@ -112,6 +113,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Sujan-lab-cell/neetcode-submissions/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sujan-lab-cell/neetcode-submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sujan-lab-cell/neetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sujan-lab-cell/neetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -133,4 +135,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0094-binary-tree-inorder-traversal](https://github.com/Sujan-lab-cell/neetcode-submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sujan-lab-cell/neetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sujan-lab-cell/neetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Sujan-lab-cell/neetcode-submissions/tree/master/0032-longest-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Sujan-lab-cell/neetcode-submissions/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
