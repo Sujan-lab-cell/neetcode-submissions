@@ -107,6 +107,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0032-longest-valid-parentheses](https://github.com/Sujan-lab-cell/neetcode-submissions/tree/master/0032-longest-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Sujan-lab-cell/neetcode-submissions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sujan-lab-cell/neetcode-submissions/tree/master/0345-reverse-vowels-of-a-string) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sujan-lab-cell/neetcode-submissions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Binary Search
 |  |
 | ------- |
@@ -148,4 +149,5 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Sujan-lab-cell/neetcode-submissions/tree/master/0643-maximum-average-subarray-i) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sujan-lab-cell/neetcode-submissions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
